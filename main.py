@@ -1,8 +1,7 @@
-x=5
-print(type(x))
-napis = "kapitan"
-print(type(napis))
-y=float(10)
-print(type(y))
-numer = 77
-print(hex(numer))
+from math import*
+pow(e,10)
+print(pow(e,10))
+x=(-3,55)
+
+
+
